@@ -1,0 +1,22 @@
+body {
+  background-image: radial-gradient(
+    circle 400px at 6.8% 8.3%,
+    rgba(255, 244, 169, 1) 0%,
+    rgba(255, 244, 234, 1) 100.2%
+  );
+  font-family: "Zeyada", cursive;
+  font-size: 28px;
+}
+a {
+  text-decoration: none;
+  color: rgb(247, 80, 144);
+  font-weight: 400;
+}
+a:hover {
+  color: rgb(255, 0, 128);
+  font-weight: 700;
+}
+img {
+  max-width: 550px;
+  height: auto;
+}
